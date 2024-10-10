@@ -1,0 +1,86 @@
+{
+    "search": {
+      "header": "Reviews",
+      "marketplaces": [
+        {
+          "name": "dema",
+          "logo": "dema_logo.png",
+          "available": true,
+          "enabled": true
+        },
+        {
+          "name": "amazon",
+          "logo": "amazon_logo.png",
+          "available": true,
+          "enabled": false
+        },
+        {
+          "name": "Walmart",
+          "logo": "walmart_logo.png",
+          "available": true,
+          "enabled": true
+        },
+        {
+          "name": "TEMU",
+          "logo": "temu_logo.png",
+          "available": false,
+          "enabled": false
+        },
+        {
+          "name": "ebay",
+          "logo": "ebay_logo.png",
+          "available": false,
+          "enabled": false
+        },
+        {
+          "name": "Etsy",
+          "logo": "etsy_logo.png",
+          "available": false,
+          "enabled": false
+        },
+        {
+          "name": "Lowe's",
+          "logo": "lowes_logo.png",
+          "available": false,
+          "enabled": false
+        },
+        {
+          "name": "Macy's",
+          "logo": "macys_logo.png",
+          "available": true,
+          "enabled": true
+        },
+        {
+          "name": "Target",
+          "logo": "target_logo.png",
+          "available": false,
+          "enabled": false
+        },
+        {
+          "name": "Best Buy",
+          "logo": "bestbuy_logo.png",
+          "available": false,
+          "enabled": false
+        },
+        {
+          "name": "Wayfair",
+          "logo": "wayfair_logo.png",
+          "available": false,
+          "enabled": false
+        },
+        {
+          "name": "Bed Bath & Beyond",
+          "logo": "bedbath_logo.png",
+          "available": false,
+          "enabled": false
+        }
+      ],
+      "marketplace_owned_products": {
+        "header": "Marketplace Owned Products",
+        "description": "Toggling this to 'on' renders items sold by marketplace-owned entities as 'unavailable' on dema. Marketplace-owned entities sell items that compete with 3rd party sellers.",
+        "enabled": true,
+        "learn_more_link": "link_to_learn_more"
+      }
+    }
+  }
+  
